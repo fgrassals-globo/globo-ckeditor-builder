@@ -41,12 +41,12 @@ editor.defaultConfig = {
             "heading", "|", "bold", "italic", "link", "bulletedList", "numberedList", "|", "outdent", "indent", "|",
             "uploadImage", "blockQuote", "insertTable", "mediaEmbed", "undo", "redo",
         ],
-        image: {
-            toolbar: ["imageStyle:full", "imageStyle:side", "|", "imageTextAlternative"],
-        },
-        table: {
-            contentToolbar: ["tableColumn", "tableRow", "mergeTableCells"],
-        },
+    },
+    image: {
+        toolbar: ["imageStyle:full", "imageStyle:side", "|", "imageTextAlternative"],
+    },
+    table: {
+        contentToolbar: ["tableColumn", "tableRow", "mergeTableCells"],
     },
     language: 'en'
 };
